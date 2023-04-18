@@ -1,5 +1,9 @@
 # Angular Tour Of Heroes
 
-Tutorial to learn Angular.
+This is my second tutorial that I completed.
+
+[Source](https://angular.io/tutorial/tour-of-heroes/)
+
+Website: [https://heroes.sasebo.tech](https://heroes.sasebo.tech).
 
 # heroes
